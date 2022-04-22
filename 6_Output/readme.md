@@ -2,7 +2,8 @@
 
 
 ![simulation_circuit](https://user-images.githubusercontent.com/89642370/164723910-3463d79e-8008-4f44-b47e-373c7668ee67.png)
-The program developed and loaded on the microcontroller by means of an interfacer known as the programmer.
+
+* The program developed and loaded on the microcontroller by means of an interfacer known as the programmer.
 The program and Hex code is given in appendix.
 ## Assembler
 The assembler used for this project is the MPLAB version 5.7 which was downloaded from the microchip
