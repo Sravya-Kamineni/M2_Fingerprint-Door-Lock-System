@@ -11,6 +11,8 @@ Fingerprint door lock incorporates the proven technology. Fingerprint reader sca
 
 * Since the introduction of the EU General Data Protection Regulation (GDPR) in 2018, any company that falls foul of a data breach will now face fines of up to €20 million or 4% of its annual turnover. 
 * In fact, the biggest fine to date was issued to British Airways in September this year. After the personal data of 500,000 of its customers was leaked from their company website and mobile app, BA was fined a hefty £183 million.
+# SDLC Method:
+![](https://github.com/Sravya-Kamineni/M2_Fingerprint-Door-Lock-System/actions/workflows/main.yml/badge.svg)
 # Codiga code check:
 ![codiga_1](https://user-images.githubusercontent.com/89642370/164741247-b01accb7-a28e-4e7f-9d6a-f3a79ea9a267.png)
 ![](https://api.codiga.io/project/33026/score/svg)
